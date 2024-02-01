@@ -12,26 +12,26 @@ I am a man who started managing large networks online, I later ended up in the h
 <br>
 <br>
 
-<img align="right" width="25%" src="[https://metallicgloss.com/assets/imgs/github/desk.svg](https://flexynode.com/templates/lagom2/assets/img/logo/logo_small_inverse.1251684044.png)">
+<img align="right" width="25%" src="[https://metallicgloss.com/assets/imgs/github/desk.svg](https://i.imgur.com/g0IpK5T.png)">
 
-## Project: FlexyNode
+## Project: GameUnit
 
-As I said in my intro, I am currently very active in the hosting world, especially FlexyNode. This is a hosting company that sells or rents VPSs, GameServers, and Dedicateds for low prices. I currently have a permanent position there as team leader and I manage the entire team.
+As I said in my intro, I am currently very active in the hosting world, especially GameUnit. This is a hosting company that sells or rents VPSs and Gameservers. I currently have a permanent position there as Marketing Director and Teamleader.
 
 <br>
 <br>
 
-<img align="left" width="25%" src="https://flexynode.com/templates/lagom2/assets/img/logo/logo_small_inverse.1251684044.png">
+<img align="left" width="25%" src="https://i.imgur.com/g0IpK5T.png">
 
-## Contact Me of FlexyNode
+## Contact Me or GameUnit
 
 Looking to get in touch or to ask a question? Interested in hosting solutions at Flexynode? Please feel free to reach out, even just to say "Hello"!
     
-• Personal Mail: [tycho@flexynode.com](https://flexynode.com)
+• Personal Mail: [tycho@gameunit.pro](https://gameunit.pro)
 <br>
-• Company Mail: [info@flexynode.com](https://flexynode.com)
+• Company Mail: [info@gameunit.pro](https://gameunit.pro)
 <br>
-• Company Website: https://flexynode.com
+• Company Website: https://gameunit.pro
 
 <br>
 <br>
